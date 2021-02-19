@@ -1,0 +1,17 @@
+body {
+    background: teal
+}
+
+.timer {
+        position:relative;
+        text-align: center;
+        font-family: "tahoma";
+        font-size: 100;
+        top: 50;
+        color: pink;
+}
+
+/*.btn {
+    background-color: tomato;
+    
+}
