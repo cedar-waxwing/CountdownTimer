@@ -1,17 +1,22 @@
 body {
-    background: teal
+    background: darkgreen
 }
 
 .timer {
         position:relative;
         text-align: center;
-        font-family: "tahoma";
-        font-size: 100;
+        font-family: "luminari";
+        font-size: 200;
         top: 50;
-        color: pink;
+        color: tomato;
+        
 }
 
-/*.btn {
-    background-color: tomato;
-    
+.tacky {
+    margin: 0 auto;
+    background-color: lightblue;
+    border: none;
+    font-size: 15pt;
+    padding: 10px;
+    border-radius: 25px;
 }
