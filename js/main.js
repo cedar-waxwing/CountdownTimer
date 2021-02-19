@@ -4,7 +4,7 @@
 let project = setInterval(countdownTimer, 1000);
 
 // Total number of minutes in seconds. 25 * 60. Global variable aka outside of the function. 
-let total = 10;
+let total = 1500;
 
 // remember -- % is remainder of x and y, while / is quotient of x and y
 function countdownTimer() {
